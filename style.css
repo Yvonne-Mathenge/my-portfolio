@@ -19,13 +19,13 @@ body {
 
 /* Color Variables */
 :root {
-  --base-color: white;
+  --base-color: gray;
   --base-variant: #e8e9ed;
-  --text-color: #111528;
-  --secondary-text: #232738;
+  --text-color: #ff0000;
+  --secondary-text: #ffa500;
   --primary-color: #3a435d;
   --accent-color: #4842b5;
-  --header-bg: #749fe0;
+  --header-bg: #ee82ee;
 }
 
 .darkmode {
